@@ -1,4 +1,3 @@
-
 # VideoTube
 
 VideoTube is a video sharing web application where a user can login upload ,subscribe a channel ,like and comment the videos.
@@ -55,3 +54,6 @@ npm install
  npm start
 ```
 That's it now you can acess the web app at --> localhost:3000
+=======
+![Screenshot 2024-03-12 120909](https://github.com/sandeepm9392/video_Sharing_app/assets/111731423/46611c80-fe7e-4188-b54a-58f0e46e0973)
+>>>>>>> 31ea9fbcec1e87810733b8eb66041832570d1770
