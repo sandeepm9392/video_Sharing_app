@@ -1,4 +1,4 @@
-import { createError } from "../error.js";
+import { createError } from "../middleware/error.js";
 import Video from "../models/Video.js";
 import User from "../models/User.js";
 

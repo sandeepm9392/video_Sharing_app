@@ -1,7 +1,7 @@
 import express from "express"
 import { deleteUser, dislike, getUser, like, subscribe, unsubscribe,
      update } from "../controllers/user.js"
-import verifyToken from "../verifyToken.js"
+import verifyToken from "../middleware/verifyToken.js"
 const router = express.Router();
 
 //Updating a user
